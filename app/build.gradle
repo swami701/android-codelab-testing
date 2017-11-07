@@ -4,7 +4,6 @@ android {
     compileSdkVersion rootProject.ext.compileSdkVersion
     buildToolsVersion rootProject.ext.buildToolsVersion
 
-    flavorDimensions "default"
     defaultConfig {
         applicationId "com.example.android.testing.notes"
         minSdkVersion rootProject.ext.minSdkVersion
